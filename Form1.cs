@@ -15,9 +15,15 @@ namespace AlchemoneyOverhaul
         QueryList qlist;
         DataTable foundPotions;
         DataTable ingredientsQueryTable;
+        AppDomain currentDomain = AppDomain.CurrentDomain;
         string ingredientsFile = @"resources\ingredients.csv";
-
-        string dbConnectionString = "Data Source=(LocalDB)\\v11.0;AttachDbFilename=C:\\Users\\Eric\\Desktop\\Alchemoney Project\\AlchemoneyOverhaul\\AlchemoneyOverhaul\\dbTestCSV.mdf;Integrated Security=True";
+       
+        // Make the connection string relative to the working directory
+        //string exec1 = System.Reflection.Assembly.GetExecutingAssembly().Location;
+        //string path = (System.IO.Path.GetDirectoryName(exec1));
+        //currentDomain.SetData("DataDirectory", path);
+        
+        string dbConnectionString = "Data Source=(LocalDB)\\v11.0;AttachDbFilename=|DataDirectory|\\dbTestCSV.mdf;Integrated Security=True";
         public AlchemoneyOverhaul()
         {
             InitializeComponent();
