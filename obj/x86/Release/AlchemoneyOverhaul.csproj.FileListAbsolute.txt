@@ -1,0 +1,26 @@
+C:\Users\Eric\Desktop\AlchemoneyOverhaul\AlchemoneyOverhaul\bin\Release\AlchemoneyOverhaul.exe.config
+C:\Users\Eric\Desktop\AlchemoneyOverhaul\AlchemoneyOverhaul\bin\Release\dbTestCSV.mdf
+C:\Users\Eric\Desktop\AlchemoneyOverhaul\AlchemoneyOverhaul\bin\Release\dbTestCSV_log.ldf
+C:\Users\Eric\Desktop\AlchemoneyOverhaul\AlchemoneyOverhaul\bin\Release\AlchemoneyOverhaul.exe
+C:\Users\Eric\Desktop\AlchemoneyOverhaul\AlchemoneyOverhaul\bin\Release\AlchemoneyOverhaul.pdb
+C:\Users\Eric\Desktop\AlchemoneyOverhaul\AlchemoneyOverhaul\obj\x86\Release\AlchemoneyOverhaul.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Desktop\AlchemoneyOverhaul\AlchemoneyOverhaul\obj\x86\Release\AlchemoneyOverhaul.AlchemoneyOverhaul.resources
+C:\Users\Eric\Desktop\AlchemoneyOverhaul\AlchemoneyOverhaul\obj\x86\Release\AlchemoneyOverhaul.Properties.Resources.resources
+C:\Users\Eric\Desktop\AlchemoneyOverhaul\AlchemoneyOverhaul\obj\x86\Release\AlchemoneyOverhaul.csproj.GenerateResource.Cache
+C:\Users\Eric\Desktop\AlchemoneyOverhaul\AlchemoneyOverhaul\obj\x86\Release\AlchemoneyOverhaul.exe
+C:\Users\Eric\Desktop\AlchemoneyOverhaul\AlchemoneyOverhaul\obj\x86\Release\AlchemoneyOverhaul.pdb
+C:\Users\Eric\Desktop\AlchemoneyOverhaul\AlchemoneyOverhaul\bin\Release\Resources\skyrimPotions.csv
+C:\Users\Eric\Desktop\AlchemoneyOverhaul\AlchemoneyOverhaul\bin\Release\Resources\ingredients.csv
+C:\Users\Eric\Desktop\Alchemoney Project\AlchemoneyOverhaul\AlchemoneyOverhaul\bin\Release\Resources\skyrimPotions.csv
+C:\Users\Eric\Desktop\Alchemoney Project\AlchemoneyOverhaul\AlchemoneyOverhaul\bin\Release\Resources\ingredients.csv
+C:\Users\Eric\Desktop\Alchemoney Project\AlchemoneyOverhaul\AlchemoneyOverhaul\bin\Release\dbTestCSV.mdf
+C:\Users\Eric\Desktop\Alchemoney Project\AlchemoneyOverhaul\AlchemoneyOverhaul\bin\Release\dbTestCSV_log.ldf
+C:\Users\Eric\Desktop\Alchemoney Project\AlchemoneyOverhaul\AlchemoneyOverhaul\bin\Release\AlchemoneyOverhaul.exe.config
+C:\Users\Eric\Desktop\Alchemoney Project\AlchemoneyOverhaul\AlchemoneyOverhaul\bin\Release\AlchemoneyOverhaul.exe
+C:\Users\Eric\Desktop\Alchemoney Project\AlchemoneyOverhaul\AlchemoneyOverhaul\bin\Release\AlchemoneyOverhaul.pdb
+C:\Users\Eric\Desktop\Alchemoney Project\AlchemoneyOverhaul\AlchemoneyOverhaul\obj\x86\Release\AlchemoneyOverhaul.AlchemoneyOverhaul.resources
+C:\Users\Eric\Desktop\Alchemoney Project\AlchemoneyOverhaul\AlchemoneyOverhaul\obj\x86\Release\AlchemoneyOverhaul.Properties.Resources.resources
+C:\Users\Eric\Desktop\Alchemoney Project\AlchemoneyOverhaul\AlchemoneyOverhaul\obj\x86\Release\AlchemoneyOverhaul.csproj.GenerateResource.Cache
+C:\Users\Eric\Desktop\Alchemoney Project\AlchemoneyOverhaul\AlchemoneyOverhaul\obj\x86\Release\AlchemoneyOverhaul.exe
+C:\Users\Eric\Desktop\Alchemoney Project\AlchemoneyOverhaul\AlchemoneyOverhaul\obj\x86\Release\AlchemoneyOverhaul.pdb
+C:\Users\Eric\Desktop\Alchemoney Project\AlchemoneyOverhaul\AlchemoneyOverhaul\obj\x86\Release\AlchemoneyOverhaul.csprojResolveAssemblyReference.cache
