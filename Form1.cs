@@ -6,7 +6,7 @@ using System.Text;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 using System.Diagnostics;
-using AlchemoneyOverhaul.Properties;
+//using AlchemoneyOverhaul.Properties;
 
 namespace AlchemoneyOverhaul
 {
@@ -19,9 +19,7 @@ namespace AlchemoneyOverhaul
         string ingredientsFile = @"resources\ingredients.csv";
        
         // Make the connection string relative to the working directory
-        //string exec1 = System.Reflection.Assembly.GetExecutingAssembly().Location;
-        //string path = (System.IO.Path.GetDirectoryName(exec1));
-        //currentDomain.SetData("DataDirectory", path);
+        string exec1 = System.Reflection.Assembly.GetExecutingAssembly().Location;
         
         string dbConnectionString = "Data Source=(LocalDB)\\v11.0;AttachDbFilename=|DataDirectory|\\dbTestCSV.mdf;Integrated Security=True";
         public AlchemoneyOverhaul()
@@ -56,6 +54,8 @@ namespace AlchemoneyOverhaul
         private DataTable findMatches(int numToFind)
         {
             DataTable matchesTable = new DataTable("Table1");
+            string path = (System.IO.Path.GetDirectoryName(exec1));
+            currentDomain.SetData("DataDirectory", path);
             SqlConnection con = new SqlConnection(dbConnectionString);
 
             matchesTable.Columns.Add("Potion ID");
@@ -123,6 +123,9 @@ namespace AlchemoneyOverhaul
         private DataTable findTopMatches(int numToFind)
         {
             DataTable matchesTable = new DataTable("Table1");
+
+            string path = (System.IO.Path.GetDirectoryName(exec1));
+            currentDomain.SetData("DataDirectory", path);
             SqlConnection con = new SqlConnection(dbConnectionString);
 
             matchesTable.Columns.Add("Potion ID");
